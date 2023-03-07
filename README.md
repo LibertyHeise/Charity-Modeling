@@ -2,6 +2,8 @@
 
 Alphabet Soup Classification Model Report
 Liberty Heise
+
+
 Overview 
 The analysis was created to understand more about which factors would improve the success of particular charity organization over others.  The data contained a wide variety of charity organizations with many different attributes which were then narrowed down to reflect which charity organizations would succeed and which would not.
 
